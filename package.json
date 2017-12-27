@@ -1,0 +1,17 @@
+{
+  "name": "toggle-home",
+  "main": "./lib/toggle-home",
+  "version": "0.1.0",
+  "description": "Allows to move a cursor to the very begining of a soft-wrapped line, when a cursor is not in the first 'virtual' line. ",
+  "keywords": ["home","button","toggle"],
+  "activationCommands": {
+    "atom-workspace": "toggle-home:toggle"
+  },
+  "repository": "https://github.com/qbadev/toggle-home",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
