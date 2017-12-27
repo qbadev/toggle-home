@@ -1,9 +1,13 @@
 {
   "name": "toggle-home",
   "main": "./lib/toggle-home",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Allows to move a cursor to the very begining of a soft-wrapped line, when a cursor is not in the first 'virtual' line. ",
-  "keywords": ["home","button","toggle"],
+  "keywords": [
+    "home",
+    "button",
+    "toggle"
+  ],
   "activationCommands": {
     "atom-workspace": "toggle-home:toggle"
   },
@@ -12,6 +16,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
