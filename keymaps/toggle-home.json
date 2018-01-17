@@ -1,5 +1,5 @@
 {
-  "atom-text-editor.editor": {
+  "atom-workspace-axis.vertical atom-pane-container atom-text-editor.editor:not([mini])": {
     "home": "toggle-home:toggle"
   }
 }
