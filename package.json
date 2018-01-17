@@ -1,7 +1,7 @@
 {
   "name": "toggle-home",
   "main": "./lib/toggle-home",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Allows to move a cursor to the very begining of a soft-wrapped line, when a cursor is not in the first 'virtual' line. ",
   "keywords": [
     "home",
