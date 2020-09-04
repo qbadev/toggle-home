@@ -1,5 +1,8 @@
 {
   "atom-workspace-axis.vertical atom-pane-container atom-text-editor.editor:not([mini])": {
-    "home": "toggle-home:toggle"
+    "home": "toggle-home:home",
+    "end": "toggle-home:end",
+    "shift-home": "toggle-home:shifthome",
+    "shift-end": "toggle-home:shiftend"
   }
 }
