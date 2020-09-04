@@ -1,7 +1,7 @@
 {
   "name": "toggle-home",
   "main": "./lib/toggle-home",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Allows to move a cursor to the very begining of a soft-wrapped line, when a cursor is not in the first 'virtual' line. Also toggling End button does the opposite. Package allows to use Shift+Home and Shift+End key combinations to select text in soft-wrapped lines.",
   "keywords": [
     "home",
